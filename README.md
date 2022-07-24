@@ -11,11 +11,9 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/darshil_here)
-[![website](./img/twitter-dark.svg)](https://twitter.com/darshil_here)
+[![website](./Icons/twitter-dark.svg)](https://twitter.com/darshil_here)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/darshiiil_/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/darshiiil_/)
+[![website](./Icons/instagram-dark.svg)](https://www.instagram.com/darshiiil_/)
 
 ### Languages and Tools:
 
