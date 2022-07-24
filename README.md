@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello there, I'm Darshil 👋
 
-<!--
-**darshil-here/darshil-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a CS Student, Learning Web Devlopment!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on crework's projects
+- 🌱 I’m currently learning web-dev
+- 👯 I’m looking to collaborate with other devlopers
+- 🥅 2022 Goals: Make more web-dev projects
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to talk & make connections with new people
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[![website](./img/twitter-light.svg)](https://twitter.com/darshil_here)
+[![website](./img/twitter-dark.svg)](https://twitter.com/darshil_here)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/darshiiil_/)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/darshiiil_/)
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/104206815/180643958-c2f6a30f-51c0-4803-84b6-e164404eb8ec.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/104206815/180643967-c9898228-7d25-4bcf-bd49-f4e219e37b5c.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/104206815/180643978-36ca896b-2c7e-4290-bd12-5dcfd2c012e2.svg" style="padding-right:10px;" />
+
+<br />
